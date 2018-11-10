@@ -12,5 +12,5 @@ This project is using a prisma database to have a rapid prototyping backend
 ### Spinup Frontend
   1. make sure you have [Node](https://nodejs.org) installed
   2. install project dependencies `cd web && yarn` or `cd web && npm i`
-  3. Spinup frontend `yarn dev` or `npm run dev`
+  3. Spinup frontend `yarn start` or `npm start`
   4. App should be accessable under `localhost:3000`
